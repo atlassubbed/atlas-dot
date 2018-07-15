@@ -14,7 +14,11 @@ npm install --save atlas-dot
 
 ## why
 
-Breaking up [atlas-dataset](https://github.com/atlassubbed/atlas-dataset#readme) into standalone functions.
+Breaking up [atlas-dataset](https://github.com/atlassubbed/atlas-dataset#readme) into standalone functions. This module contains the dot product:
+
+<p align="center">
+  <img alt="U dot V = u_i * v_i" src="docs/dot-einstein.png">
+</p>
 
 ## examples
 
