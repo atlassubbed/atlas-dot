@@ -21,7 +21,7 @@ Breaking up [atlas-dataset](https://github.com/atlassubbed/atlas-dataset#readme)
 #### <i>v</i> &middot; <i>v</i>
 
 ```javascript
-const dot = require("atlas-sum")
+const dot = require("atlas-dot")
 console.log(dot([1,2]))
 // 5 
 ```
